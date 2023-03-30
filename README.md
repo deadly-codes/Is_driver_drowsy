@@ -3,7 +3,7 @@
 ## About The Project :
 
 This project helps you detect that if the driver is drunk / sleepy / drowsy amd if thats True then it'll beep alarm to alert you.
-This [roject can help a lot of people to save themselves from accidents.
+This project increases safety on the roads: Drowsy driving is a major contributor to accidents, and a drowsy driver detection system could help prevent these accidents by alerting drivers when they become too fatigued to drive safely.
 
 ## About files :
 

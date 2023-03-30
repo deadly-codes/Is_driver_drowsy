@@ -10,6 +10,7 @@ This [roject can help a lot of people to save themselves from accidents.
 - "drowsiness.py" - has full working model
 - "music.wav" - it is the beep alarm
 - "dlib-19.22.99-cp310-cp310-win_amd64.whl" - it is the package/file to install dlib library
+- "shape_predictor_68_face_landmarks.dat" - pre-data file present below
 
 ## Programming Languages- Python
 

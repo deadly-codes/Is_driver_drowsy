@@ -28,7 +28,7 @@ CAN INSTALL SOME PYTHON PACKAGES BY :
 - `pip install pygame`
 
 ## About Pre-Data : 
-File contains 68 landmarks , it will detect from our face(these landmarks are some points on our face which includes eyes, eyebrows, jawline ,lips,etc)
+File contains 68 landmarks, when the model will detect landmarks from our face (these landmarks are some points on our face which includes eyes, eyebrows, jawline ,lips,etc), it'll match to the pre-data for analysing.
 
 Dat file is used [FIND HERE !](https://drive.google.com/file/d/1vGljjJ2l4tjhiOHpqyS_R-_ihUKRLvE4/view?usp=sharing) .
 
